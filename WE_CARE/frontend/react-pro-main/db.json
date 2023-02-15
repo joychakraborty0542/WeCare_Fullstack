@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "name": "Soma",
+      "password": "12345",
+      "dob": "2023-01-22",
+      "gender": "female",
+      "phone": "9748076617",
+      "email": "basu@gmail.com",
+      "pincode": "700126",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "country": "India",
+      "id": 1
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "coachId": "1",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "userId": "2",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 11
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 12
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 13
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "userId": "1",
+      "password": "12345",
+      "id": 15
+    }
+  ],
+  "coachs": [
+    {
+      "name": "Raj",
+      "password": "12345",
+      "dob": "2023-01-22",
+      "gender": "male",
+      "phone": "7980411163",
+      "speciality": "Sport",
+      "id": 1
+    },
+    {
+      "name": "Jeff",
+      "password": "12345",
+      "dob": "2023-01-22",
+      "gender": "male",
+      "phone": "7980411163",
+      "speciality": "Football",
+      "id": 2
+    }
+  ],
+  "booking": [
+    {
+      "slot": "9 AM to 10 AM",
+      "doa": "2023-01-22",
+      "coachId": 2,
+      "userId": "2",
+      "id": 1
+    },
+    {
+      "slot": "11 Am to 12 AM",
+      "doa": "2023-01-23",
+      "coachId": 2,
+      "userId": "2",
+      "id": 2
+    },
+    {
+      "slot": "4 Pm to 5 PM",
+      "doa": "2023-01-05",
+      "coachId": 1,
+      "userId": "1",
+      "id": 3
+    },
+    {
+      "slot": "11 Am to 12 AM",
+      "doa": "2023-01-10",
+      "coachId": 1,
+      "userId": "1",
+      "id": 4
+    }
+  ],
+  "clogin": [],
+  "ulogin": []
+}

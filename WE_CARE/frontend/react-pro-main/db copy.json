@@ -1,0 +1,845 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "test",
+      "password": "123456",
+      "dob": "2023-01-19",
+      "gender": "male",
+      "phone": "7898544464",
+      "speciality": "test",
+      "id": 2
+    },
+    {
+      "name": "Soma",
+      "password": "213123123",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "hhhh",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "password": "21312",
+      "dob": "2023-01-19",
+      "gender": "male",
+      "phone": "7898544",
+      "speciality": "eqweqwe",
+      "id": 4
+    },
+    {
+      "name": "test",
+      "password": "21312",
+      "dob": "2023-01-19",
+      "gender": "male",
+      "phone": "7898544",
+      "speciality": "eqweqwe",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "password": "12312312",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "7898544464",
+      "speciality": "123123",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "password": "rwerwe",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "7898544464",
+      "speciality": "werwer",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "password": "qweqe",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "7898544464",
+      "speciality": "qwe",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "password": "123123",
+      "dob": "2023-01-20",
+      "gender": "",
+      "phone": "7898544464",
+      "speciality": "12312",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "password": "123123",
+      "dob": "2023-01-20",
+      "gender": "",
+      "phone": "7898544464",
+      "speciality": "12312",
+      "id": 10
+    },
+    {
+      "name": "test",
+      "password": "123123",
+      "dob": "2023-01-20",
+      "gender": "",
+      "phone": "7898544464",
+      "speciality": "12312",
+      "id": 11
+    },
+    {
+      "name": "Soma",
+      "password": "qweqwe",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqwe",
+      "id": 12
+    },
+    {
+      "name": "asd",
+      "password": "asdasd",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "asdad",
+      "speciality": "12312",
+      "id": 13
+    },
+    {
+      "name": "dasda",
+      "password": "asdasd",
+      "dob": "2023-01-27",
+      "gender": "male",
+      "phone": "asd",
+      "speciality": "asd",
+      "id": 14
+    },
+    {
+      "name": "aasdas",
+      "password": "asqweqw",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "qweqwe",
+      "speciality": "qweqw",
+      "id": 15
+    },
+    {
+      "name": "sfdf",
+      "password": "sdfsf",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "sdf",
+      "speciality": "sdf",
+      "id": 16
+    },
+    {
+      "name": "tttttt",
+      "password": "wette",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "wetwet",
+      "speciality": "wet",
+      "id": 17
+    },
+    {
+      "name": "Soma",
+      "password": "dsfsdf",
+      "dob": "2023-01-26",
+      "gender": "female",
+      "phone": "sdf",
+      "speciality": "sdf",
+      "id": 18
+    },
+    {
+      "name": "asd",
+      "password": "asd",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "asd",
+      "speciality": "asd",
+      "id": 19
+    },
+    {
+      "name": "Soma",
+      "password": "1234567",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "1234567",
+      "speciality": "tear",
+      "id": 20
+    },
+    {
+      "name": "raj",
+      "password": "1234",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "qwe",
+      "speciality": "qwe",
+      "id": 21
+    },
+    {
+      "name": "JIT",
+      "password": "1234",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "sdfds",
+      "id": 22
+    },
+    {
+      "name": "rrrr",
+      "password": "sdfsdf",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "sdf",
+      "speciality": "sdf",
+      "id": 23
+    },
+    {
+      "name": "ttt",
+      "password": "wet",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "wew",
+      "speciality": "wer",
+      "id": 24
+    },
+    {
+      "name": "test",
+      "password": "sdfsdf",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "sfsdf",
+      "speciality": "sdfsdf",
+      "id": 25
+    },
+    {
+      "name": "Soma",
+      "password": "123456",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "tewst",
+      "id": 26
+    },
+    {
+      "name": "raj",
+      "password": "123123",
+      "dob": "2023-01-19",
+      "gender": "female",
+      "phone": "asdas",
+      "speciality": "dasda",
+      "id": 27
+    },
+    {
+      "name": "dgdfgfdg",
+      "password": "dfgdfgdf",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "dfgdfg",
+      "speciality": "dfgdfg",
+      "id": 28
+    },
+    {
+      "name": "test",
+      "password": "sdfsdf",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "sdfsdf",
+      "speciality": "sdfdfs",
+      "id": 29
+    },
+    {
+      "name": "dsfsdfsdfsd",
+      "password": "3123123",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "sdfsdfsd",
+      "id": 30
+    },
+    {
+      "name": "trete",
+      "password": "ertert",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "ertert",
+      "speciality": "ertert",
+      "id": 31
+    },
+    {
+      "name": "trete",
+      "password": "ertert",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "ertert",
+      "speciality": "ertert",
+      "id": 32
+    },
+    {
+      "name": "test",
+      "password": "fsfasfa",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "asfaf",
+      "speciality": "saf",
+      "id": 33
+    },
+    {
+      "name": "test",
+      "password": "fsfasfa",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "asfaf",
+      "speciality": "saf",
+      "id": 34
+    },
+    {
+      "name": "test",
+      "password": "123",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "dsfsd",
+      "speciality": "sdfsd",
+      "id": 35
+    },
+    {
+      "name": "Soma",
+      "password": "sdfsdf",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "sdfsdf",
+      "speciality": "sdfsdf",
+      "id": 36
+    },
+    {
+      "name": "test",
+      "password": "12343",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "234234",
+      "speciality": "234234",
+      "id": 37
+    },
+    {
+      "name": "Soma",
+      "password": "dsfsdf",
+      "dob": "2023-01-27",
+      "gender": "female",
+      "phone": "sdfsdf",
+      "speciality": "sdfsd",
+      "id": 38
+    },
+    {
+      "name": "test",
+      "password": "yyy",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "vhvghvgh",
+      "id": 39
+    },
+    {
+      "name": "test",
+      "password": "iuoiu",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "12312",
+      "id": 40
+    },
+    {
+      "name": "test",
+      "password": "ljpo",
+      "dob": "2023-01-27",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 41
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 42
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 43
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 44
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 45
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 46
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 47
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 48
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 49
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 50
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 51
+    },
+    {
+      "name": "test",
+      "password": "lkj;l",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 52
+    },
+    {
+      "name": "test",
+      "password": "poipo",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 53
+    },
+    {
+      "name": "test",
+      "password": "poipo",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 54
+    },
+    {
+      "name": "test",
+      "password": "poipo",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 55
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 56
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 57
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 58
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 59
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 60
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 61
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 62
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 63
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 64
+    },
+    {
+      "name": "test",
+      "password": "iouo",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544",
+      "speciality": "qweqw",
+      "id": 65
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 66
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 67
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 68
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 69
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 70
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 71
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 72
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 73
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 74
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 75
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 76
+    },
+    {
+      "name": "test",
+      "password": "iouoi",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 77
+    },
+    {
+      "name": "test",
+      "password": "iuoiu",
+      "dob": "2023-01-21",
+      "gender": "female",
+      "phone": "7898544464",
+      "speciality": "qweqw",
+      "id": 78
+    },
+    {
+      "name": "Soma",
+      "password": "lkj;lj",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "9809",
+      "speciality": "qweqw",
+      "id": 79
+    },
+    {
+      "name": "Soma",
+      "password": "87987",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "xcvcxv",
+      "speciality": "xcvxc",
+      "id": 80
+    },
+    {
+      "name": "tim",
+      "password": "1234567",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "7898544464",
+      "email": "soma@gmail.com",
+      "pincode": "1234",
+      "city": "asdasd",
+      "state": "asdasd",
+      "country": "asdas",
+      "id": 81
+    },
+    {
+      "name": "Jen",
+      "password": "sadasd",
+      "dob": "2023-01-20",
+      "gender": "female",
+      "phone": "asdasd",
+      "email": "drrobert@gmail.com",
+      "pincode": "126",
+      "city": "kolkata",
+      "state": "wb",
+      "country": "ind",
+      "id": 82
+    },
+    {
+      "name": "test",
+      "password": "dasd",
+      "dob": "2023-01-20",
+      "gender": "male",
+      "phone": "asdad",
+      "email": "drrobert@gmail.com",
+      "pincode": "adas",
+      "city": "asdasd",
+      "state": "asda",
+      "country": "asd",
+      "usertype": "user",
+      "id": 83
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "coachId": "5",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "coachId": "5",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "coachId": "5",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "coachId": "t",
+      "password": "ttt",
+      "id": 5
+    },
+    {
+      "coachId": "5",
+      "password": "dfsdf",
+      "id": 6
+    },
+    {
+      "coachId": "5",
+      "password": "dfgdf",
+      "id": 7
+    },
+    {
+      "coachId": "5",
+      "password": "12323",
+      "id": 8
+    },
+    {
+      "coachId": "5",
+      "password": "111",
+      "id": 9
+    },
+    {
+      "userId": "6",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "userId": "5",
+      "password": "fsdf",
+      "id": 11
+    },
+    {
+      "userId": "5",
+      "password": "879",
+      "id": 12
+    },
+    {
+      "userId": "5",
+      "password": "089",
+      "id": 13
+    },
+    {
+      "coachId": "5",
+      "password": "980",
+      "id": 14
+    },
+    {
+      "userId": "5",
+      "password": "87",
+      "id": 15
+    },
+    {
+      "userId": "5",
+      "password": "sadas",
+      "id": 16
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

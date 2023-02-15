@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    text-decoration: none;    
+}
+html{
+    font-size: 62.5%;
+}
+.logo{
+    font-weight: 700;
+    font-size: 2.5rem;
+    color:#fff;
+}
+.logo:hover {
+    color:#fff;
+}
+.nav-color {
+    gap: 30px;
+}
+.nav-color li a{
+    font-size: 1.5rem ;
+    color: #fff;
+}
+.nav-color li span{
+    font-size: 1.5rem ;
+    color: #fff;
+}
+.nav-color li a:hover{
+    font-size: 1.5rem ;
+    color: #fff;
+}
+.call-us{
+    font-size: 1.5rem;
+}
+/* Home style */
+.wc-section {
+    padding: 5rem 0;
+}
+.section-title h2{
+    font-size: 4rem;
+    padding-bottom: 4rem;
+}
+.card-column{
+    background-color: #1C2833 ;
+    border-radius: 5px;
+    color: #fff;
+    padding: 2.5rem;
+}
+.btn-sky{
+    background-color: #85C1E9;
+    border: none;
+    font-size: 1.5rem;
+    color: #fff;
+}
+.btn-sky:hover{
+    background-color: #85C1E9;
+    border: none;
+}
+.photo{
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    padding-bottom: 2.5rem;
+}
+/* Coach */
+.intro-photo{
+    border-radius: 50%;
+    width: 30px;
+}
+.intro-text{
+    padding-bottom: 3rem;
+}
+.intro-text h2{
+    font-size: 2.5rem;
+}
+input[type=text] {
+    width: 100%;
+    padding: 6px 0;
+    box-sizing: border-box;
+}
+input[type=date] {
+    width: 100%;
+    padding: 6px 0;
+    box-sizing: border-box;
+}
+input[type=password] {
+    width: 100%;
+    padding: 6px 0;
+    box-sizing: border-box;
+}
+label{
+    font-size: 1.5rem;
+}
+/* SignUp */
+.photo-signup{
+    border-radius: 50%;
+    width: 200px;
+    margin: auto;
+    padding-bottom: 2.5rem;
+}
+.signup-text h2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.signup-text h5{
+    font-size: 2rem;
+}
+.card-column-user{
+    background-color: #fff ;
+    border-radius: 5px;
+    color: #fff;
+    padding: 2.5rem;
+}
+.body-text {
+    color: #000;
+}
+.calendar {
+    font-size: 3rem;
+}
